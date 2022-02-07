@@ -16,5 +16,10 @@
 
 <p align='justify'> We can distinguish 6 levels of autonomy. </p>
 
-
+| Level 0 | No Automation
+| Level 1 | Driver Assistance
+| Level 2 | Partial Automation
+| Level 3 | Conditional Automation
+| Level 4 | High Automation
+| Level 5 | Complete Automation
 
