@@ -1,4 +1,4 @@
-# Computer-Vision-for-Autonomous-Cars
+# Computer Vision for Autonomous Cars
 
 ## Introduction
 
