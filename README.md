@@ -193,3 +193,6 @@
 * Repeat all the previous steps with videos.
   
 </p>
+
+
+<p align='justify'> Open the specific notebook for this part (project folder). </p>
