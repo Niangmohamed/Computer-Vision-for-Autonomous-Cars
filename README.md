@@ -196,3 +196,7 @@
 
 
 <p align='justify'> Open the specific notebook for this part (project folder). </p>
+
+<p align='justify'> At the end, you have to obtain something like this. The first image with straight road and the second one with curved road. </p>
+
+
