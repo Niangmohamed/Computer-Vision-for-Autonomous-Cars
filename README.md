@@ -43,3 +43,8 @@
 **Level 4 : High Automation**
 
 <p align='justify'> The driver no longer intervenes and can indeed completely divert his attention to do something else. On the other hand, this level concerns only certain driving modes and under certain conditions. It is the driver who activates and deactivates the automated mode. </p>
+
+**Level 5 : Complete Automation**
+
+<p align='justify'> The human being does not intervene any more neither in the control nor in the supervision of the task of driving. Everything is under the responsibility and control of the system. The presence of a human being at the controls is no longer necessary. Let’s see the video in the link below that describe the 6 levels of autonomy with
+an example of BMW autonomous cars. </p>
