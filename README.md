@@ -130,6 +130,10 @@
 
 <p align='justify'> Now that you know what is object detection, tracking and background segmentation let’s do some coding. Open the specific notebook for this part in the project folder. At the end, you have to obtain something like this. </p>
 
+<p align="center">
+  <img src="https://github.com/Niangmohamed/Computer-Vision-for-Autonomous-Cars/blob/283d831b9823787693ec7ee9b7b4904214e4a9d5/images/segmentation.png" />
+</p>
+
 ## Detection of moving objects using LIDAR
 
 ### What is Lidar technology? What is the importance of Lidar in autonomous cars?
