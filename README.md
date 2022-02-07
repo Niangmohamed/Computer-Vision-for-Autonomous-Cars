@@ -115,7 +115,7 @@
 
 <p align='justify'> Indeed, detecting and understanding the behavior of a human being from the point of view of the autonomous car is essential for it to make the right decisions. A simple solution is to stop as soon as the situation becomes critical or when a pedestrian is close to the car. This solution remains far from satisfactory in terms of efficiency and quality of service. </p>
 
-<p align='justify'> The resurgence of neural networks ‘NN’ over the past 10 years due to the explosion of computing capacity brought by GPUs today provides new solutions to address certain problems that can not be solved by classical approaches. These solutions include classifiers, estimators, which use complex inputs and which are able to predict the nature of the object or indicators impossible to define otherwise. </p>
+<p align='justify'> The resurgence of neural networks over the past 10 years due to the explosion of computing capacity brought by GPUs today provides new solutions to address certain problems that can not be solved by classical approaches. These solutions include classifiers, estimators, which use complex inputs and which are able to predict the nature of the object or indicators impossible to define otherwise. </p>
 
 ### So what is moving object detection in video?
 
