@@ -31,3 +31,7 @@
 **Level 1 : Driver Assistance**
 
 <p align='justify'> The driver is always responsible for the maneuvers, but delegates some of the tasks to the system. He must be able to fully regain control over driving if the situation requires it. </p>
+
+**Level 2 : Partial Automation**
+
+<p align='justify'> The responsibility for the maneuvers is entirely delegated to the system, but everything is done under constant supervision of the driver, who can decide to take back the hand at any time, for example during an automatic lane change or parking assistance which is activated only when a parking space is detected or selected by the driver. </p>
