@@ -35,3 +35,11 @@
 **Level 2 : Partial Automation**
 
 <p align='justify'> The responsibility for the maneuvers is entirely delegated to the system, but everything is done under constant supervision of the driver, who can decide to take back the hand at any time, for example during an automatic lane change or parking assistance which is activated only when a parking space is detected or selected by the driver. </p>
+
+**Level 3 : Conditional Automation**
+
+<p align='justify'> The driver may delegate the driving on the two guiding dimensions (longitudinal and lateral) and can lower his level of vigilance to focus briefly on other tasks. The intelligent steering system then takes care of positioning and maintaining the vehicle on its way while maintaining a rhythm adapted to the speed and traffic conditions. The driver must remain able to regain control of the operation if the conditions require it. </p>
+
+**Level 4 : High Automation**
+
+<p align='justify'> The driver no longer intervenes and can indeed completely divert his attention to do something else. On the other hand, this level concerns only certain driving modes and under certain conditions. It is the driver who activates and deactivates the automated mode. </p>
