@@ -204,3 +204,9 @@
 </p>
 
 <p align='center'> Result of Lane detection from images </p>
+
+<p align="center">
+  <img src="https://github.com/Niangmohamed/Computer-Vision-for-Autonomous-Cars/blob/8ea24c754bdd8586891993ae68e4c8eca1e63c63/images/lanes-3.png" />
+</p>
+
+<p align='center'> Result of Lane detection from videos </p>
