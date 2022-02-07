@@ -55,3 +55,12 @@
 ---
 
 <p align='justify'> A connected car integrates wireless telecommunications systems that allow it to collect information that it can record, process, operate and relay to other vehicles, or send to the road infrastructure. The data collected by the car are numerous and varied. Some are related to flight, such as distance information with another vehicle measured by a radar. Other data concerns the life on board, for example the transfer of music stored on a smartphone or a film … Since 2017, on the decision of the European Union, all new car must be connected in order to automatically make an emergency call in case of an accident: this is the e-Call service. By 2020, it is estimated that 80% of cars will be connected. </p>
+
+
+### Study of the existing !
+
+---
+
+<p align='justify'> Google car, called Waymo since 2016, is an electric car designed entirely by Google without steering wheel neither accelerators controls. The giants of digital field have been pioneers in the development of autonomous cars. Since the arrival of the Google Cars in 2009, the tests carried out by different companies are multiplying, in the United States, Asia or Europe. In California, one of the most advanced US states on the issue, 27 companies have filed an application for authorization to test their vehicles on state roads. Some, like Valeo working on Level 3 autonomy solutions, have developed their own prototype. For their part, mobility players such as the leader in Uber VTC are also preparing for the future. The development of a complete and operational system based on autonomous and connected vehicles is not feasible by a single actor. None can control all its components. 
+  
+The trend, which is only accelerating is alliances and even mergers between operators, builders and public and private research organizations. car manufacturers are establishing partnerships with transport operators, such as Renault with Transdev, or German manufacturers with operators in major cities such as Hanover, Stuttgart and Munich. In addition, car manufacturers buy specialized companies at gold prices. GM has offered Cruise Automation, which has developed an autonomous driving system, for about a billion dollars. Ford will invest the same amount in the start-up Argo-AI. As for German manufacturers Daimler, BMW and Audi, they bought for 3 billion dollars, the provider of geographical maps Here.</p>
