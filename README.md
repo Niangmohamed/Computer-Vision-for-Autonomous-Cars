@@ -164,6 +164,9 @@
 
 ## Lane detection
 
-### How do lanes help autonomous vehicles even work?
+### How lanes detection help autonomous vehicles even work?
 
 ---
+
+<p align='justify'> The lines drawn on the roads indicate to drivers where the traffic lanes are and serve as a reference to indicate the direction to be followed to steer the vehicle. Also, the ability to identify and track lanes is essential in order to develop algorithms for driverless vehicles. Above examples of existing systems. </p>
+
