@@ -4,15 +4,15 @@
 
 <p align='justify'> In order to put the project in its overall context and understand some important and necessary notions about autonomous cars, you must do some research and answer the following questions: </p>
 
-* What is an **autonomous cars** ? What are the different **levels of autonomy** ?
+* What is an **autonomous cars** ? What are the different **levels of autonomy**?
 
-* What is a **connected cars** ?
+* What is a **connected cars**?
 
-* What are the **existing systems** ? 
+* What are the **existing systems**? 
 
-* What are the **algorithms**, **approaches** and **libraries** used actually ?
+* What are the **algorithms**, **approaches** and **libraries** used actually?
 
-### What is an autonomous car ? What are the different levels of autonomy ?
+### What is an autonomous car? What are the different levels of autonomy?
 
 ---
 
@@ -50,14 +50,14 @@
 
 <p align='justify'> The human being does not intervene any more neither in the control nor in the supervision of the task of driving. Everything is under the responsibility and control of the system. The presence of a human being at the controls is no longer necessary. Let’s see the video in this <a href="https://www.youtube.com/watch?v=xsQvq4WlUYU">link</a> that describe the 6 levels of autonomy with an example of BMW autonomous cars. </p>
 
-### What is a connected car ?
+### What is a connected car?
 
 ---
 
 <p align='justify'> A connected car integrates wireless telecommunications systems that allow it to collect information that it can record, process, operate and relay to other vehicles, or send to the road infrastructure. The data collected by the car are numerous and varied. Some are related to flight, such as distance information with another vehicle measured by a radar. Other data concerns the life on board, for example the transfer of music stored on a smartphone or a film … Since 2017, on the decision of the European Union, all new car must be connected in order to automatically make an emergency call in case of an accident: this is the e-Call service. By 2020, it is estimated that 80% of cars will be connected. </p>
 
 
-### Study of the existing !
+### Study of the existing!
 
 ---
 
