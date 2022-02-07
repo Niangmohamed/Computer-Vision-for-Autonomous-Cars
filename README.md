@@ -93,7 +93,7 @@
 
 <p align='justify'> An example of how Tesla used neural networks for autonomous driving before. The networks learn from the most complicated and diverse scenarios in the world, iteratively sourced from our fleet of nearly 1M vehicles in real time. A full build of Autopilot neural networks involves 48 networks that take 70,000 GPU hours to train 🔥. Together, they output 1,000 distinct tensors (predictions) at each timestep. </p>
 
-![gif](https://github.com/Niangmohamed/Invisible-Cloak-With-OpenCV/blob/main/invisible_cloak.gif)
+![gif](https://github.com/Niangmohamed/Computer-Vision-for-Autonomous-Cars/blob/62f989a1e83666afd9f323f4bb5b09b54d50fd8a/videos/network.webm)
 
 ### The problems and constraints for autonomous cars?
 
