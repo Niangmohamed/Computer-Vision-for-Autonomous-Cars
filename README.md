@@ -148,7 +148,7 @@
 
 ---
 
-<p align='justify'> Light Detection and Ranging ‘LIDAR’ is a remote sensing method used to measure a distance from a laser beam emitted on an object or in the atmosphere. Hundreds of thousands of points are generated several times per second for a range of several hundred meters. The lidar delivers an accurate measurement of the distance from each point on which the laser is reflected as well as an intensity of the received signal (represented in the image below by a color). The resolution of the lidar depends on the number of channels or layers (lines traced by the laser), which range from 4 to 256. </p>
+<p align='justify'> Light Detection and Ranging (LIDAR) is a remote sensing method used to measure a distance from a laser beam emitted on an object or in the atmosphere. Hundreds of thousands of points are generated several times per second for a range of several hundred meters. The lidar delivers an accurate measurement of the distance from each point on which the laser is reflected as well as an intensity of the received signal (represented in the image below by a color). The resolution of the lidar depends on the number of channels or layers (lines traced by the laser), which range from 4 to 256. </p>
 
 <p align="center">
   <img src="https://github.com/Niangmohamed/Computer-Vision-for-Autonomous-Cars/blob/main/images/lidar.png" />
