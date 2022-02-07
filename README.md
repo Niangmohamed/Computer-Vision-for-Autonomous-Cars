@@ -76,3 +76,7 @@
 
 <p align='justify'> The tesla autopilot includes in-house data labeling, neural network training, the science of making it work, and deployment in production running on our custom inference chip. Today, the Autopilot increases the safety and convenience of driving, but the team's goal is to develop and deploy <a href="https://www.youtube.com/watch?v=tlThdr3O5Qo">Full Self-Driving</a> for their rapidly growing fleet of millions of cars. In Aug 2021,<a href="https://www.youtube.com/watch?t=2900&v=j0z4FweCy4M&feature=youtu.be">Tesla AI Day</a> provides the most detailed and up-to-date overview for their amazing work. Since Tesla is currently at level 4, Elon Musk, the CEO of Tesla, said in a tweet that Tesla will fully achieve Level 5 in autonomous driving this year (2022), another big challenge for Tesla.</p>
 
+### What are the algorithms, approaches and libraries used in previous works?
+
+---
+
