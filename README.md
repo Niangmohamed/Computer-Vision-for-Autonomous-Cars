@@ -30,22 +30,28 @@
 
 <p align='justify'> The driving is entirely the responsibility of the driver who may have warning mechanisms such as the sound signal when crossing line. </p>
 
-**Level 1 : Driver Assistance**
+**Level 1: Driver Assistance**
 
 <p align='justify'> The driver is always responsible for the maneuvers, but delegates some of the tasks to the system. He must be able to fully regain control over driving if the situation requires it. </p>
 
-**Level 2 : Partial Automation**
+**Level 2: Partial Automation**
 
 <p align='justify'> The responsibility for the maneuvers is entirely delegated to the system, but everything is done under constant supervision of the driver, who can decide to take back the hand at any time, for example during an automatic lane change or parking assistance which is activated only when a parking space is detected or selected by the driver. </p>
 
-**Level 3 : Conditional Automation**
+**Level 3: Conditional Automation**
 
 <p align='justify'> The driver may delegate the driving on the two guiding dimensions (longitudinal and lateral) and can lower his level of vigilance to focus briefly on other tasks. The intelligent steering system then takes care of positioning and maintaining the vehicle on its way while maintaining a rhythm adapted to the speed and traffic conditions. The driver must remain able to regain control of the operation if the conditions require it. </p>
 
-**Level 4 : High Automation**
+**Level 4: High Automation**
 
 <p align='justify'> The driver no longer intervenes and can indeed completely divert his attention to do something else. On the other hand, this level concerns only certain driving modes and under certain conditions. It is the driver who activates and deactivates the automated mode. </p>
 
-**Level 5 : Complete Automation**
+**Level 5: Complete Automation**
 
 <p align='justify'> The human being does not intervene any more neither in the control nor in the supervision of the task of driving. Everything is under the responsibility and control of the system. The presence of a human being at the controls is no longer necessary. Let’s see the video in this <a href="https://www.youtube.com/watch?v=xsQvq4WlUYU">link</a> that describe the 6 levels of autonomy with an example of BMW autonomous cars. </p>
+
+### What is a connected car ?
+
+---
+
+<p align='justify'> A connected car integrates wireless telecommunications systems that allow it to collect information that it can record, process, operate and relay to other vehicles, or send to the road infrastructure. The data collected by the car are numerous and varied. Some are related to flight, such as distance information with another vehicle measured by a radar. Other data concerns the life on board, for example the transfer of music stored on a smartphone or a film … Since 2017, on the decision of the European Union, all new car must be connected in order to automatically make an emergency call in case of an accident: this is the e-Call service. By 2020, it is estimated that 80% of cars will be connected. </p>
