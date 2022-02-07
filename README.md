@@ -24,3 +24,10 @@
 | Level 4  | High Automation        |
 | Level 5  | Complete Automation    |
 
+**Level 0: No Automation**
+
+<p align='justify'> The driving is entirely the responsibility of the driver who may have warning mechanisms such as the sound signal when crossing line. </p>
+
+**Level 1 : Driver Assistance**
+
+<p align='justify'> The driver is always responsible for the maneuvers, but delegates some of the tasks to the system. He must be able to fully regain control over driving if the situation requires it. </p>
