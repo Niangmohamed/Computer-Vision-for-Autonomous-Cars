@@ -86,6 +86,8 @@
 
 <p align='justify'>The table below presents a summary of some algorithms and libraries used in previous works.</p>
 
+<div align="center">
+
 | Object Detection | Algorithms | Segmentation, RCNN, YOLO, RNN |
 | :--- | :--- | :--- |
 |  | Libraries | OpenCV, TensorFlow, Pytorch |
@@ -93,6 +95,8 @@
 |  | Libraries | OpenCV, TensorFlow, Pytorch |
 | Lane Detection | Algorithms | RCNN, DNN |
 |  | Libraries | OpenCV, TensorFlow, Keras, Pytorch |
+  
+</div>
 
 
 <p align='justify'> An example of how Tesla used neural networks for autonomous driving before. The networks learn from the most complicated and diverse scenarios in the world, iteratively sourced from our fleet of nearly 1M vehicles in real time. A full build of Autopilot neural networks involves 48 networks that take 70,000 GPU hours to train 🔥. Together, they output 1,000 distinct tensors (predictions) at each timestep. </p>
