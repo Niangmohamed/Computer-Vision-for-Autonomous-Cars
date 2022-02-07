@@ -14,6 +14,8 @@
 
 ### What is an autonomous car ? What are the different levels of autonomy ?
 
+---
+
 <p align='justify'> We can distinguish 6 levels of autonomy. </p>
 
 | Level 0  | No Automation          |
