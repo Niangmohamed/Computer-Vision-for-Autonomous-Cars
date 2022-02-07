@@ -84,8 +84,8 @@
 
 | Object Detection | Algorithms | Segmentation, RCNN, YOLO, RNN |
 | :--- | :--- | :--- |
-|  | Libraries | OpenCV, TensorFlow, |
+|  | Libraries | OpenCV, TensorFlow, Pytorch |
 | Object Tracking | Algorithms | KLT, CNN, RNN |
-|  | Libraries | OpenCV, TensorFlow, |
+|  | Libraries | OpenCV, TensorFlow, Pytorch |
 | Lane Detection | Algorithms | RCNN, DNN, |
-|  | Libraries | OpenCV, TensorFlow, Keras |
+|  | Libraries | OpenCV, TensorFlow, Keras, Pytorch |
