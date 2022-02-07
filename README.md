@@ -95,6 +95,8 @@
 
 ![Tesla NN](https://github.com/Niangmohamed/Computer-Vision-for-Autonomous-Cars/blob/main/videos/network.webm)
 
+<a href="https://www.tesla.com/sites/default/files/images/careers/autopilot/network.mp4" target="_blank"></a>
+
 ### The problems and constraints for autonomous cars?
 
 ---
