@@ -108,3 +108,27 @@
 
 
 <p align='justify'> The study of the different motion detection methods proposed in the literature has allowed us to notice that most of the proposed solutions consist of considering video sequences as successions of images, generally classified into two categories: the current image , and the past. The most common approach is to build a more or less compact model that is supposed to represent all the past, and to confront the current image with this model in order to decide in any point, if it represents the background or a moving object. </p>
+
+## Detection and tracking of moving objects using background segmentation
+
+<p align='justify'> The purpose of this section is to detect and track moving objects in sequences with dynamic background using background segmentation. </p>
+
+### So what is Object Detection/Tracking?
+
+---
+
+<p align='justify'> In object detection tasks, we want to find all objects in the image and draw bounding boxes. Autonomous car in real-time video stream is an excellent example of object detection, where it is necessary to find the location of other cars, traffic lights, road signs, humans, ... </p>
+
+<p align='justify'> Video tracking is the process of locating a moving object or multiple objects over time using a camera. Video tracking can be a time consuming process due to the amount of data that is contained in video. </p>
+
+<p align='justify'> Now that you know what is object detection, tracking and background segmentation let’s do some coding. Open the specific notebook for this part in the project folder. At the end, you have to obtain something like this. </p>
+
+## Detection of moving objects using LIDAR
+
+### What is Lidar technology? What is the importance of Lidar in autonomous cars?
+
+---
+
+<p align='justify'> Light Detection and Ranging ‘LIDAR’ is a remote sensing method used to measure a distance from a laser beam emitted on an object or in the atmosphere. Hundreds of thousands of points are generated several times per second for a range of several hundred meters. The lidar delivers an accurate measurement of the distance from each point on which the laser is reflected as well as an intensity of the received signal (represented in the image below by a color). The resolution of the lidar depends on the number of channels or layers (lines traced by the laser), which range from 4 to 256. </p>
+
+
