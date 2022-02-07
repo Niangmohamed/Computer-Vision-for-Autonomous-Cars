@@ -99,3 +99,12 @@
 <p align='justify'> Indeed, detecting and understanding the behavior of a human being from the point of view of the autonomous car is essential for it to make the right decisions. A simple solution is to stop as soon as the situation becomes critical or when a pedestrian is close to the car. This solution remains far from satisfactory in terms of efficiency and quality of service. </p>
 
 <p align='justify'> The resurgence of neural networks ‘NN’ over the past 10 years due to the explosion of computing capacity brought by GPUs today provides new solutions to address certain problems that can not be solved by classical approaches. These solutions include classifiers, estimators, which use complex inputs and which are able to predict the nature of the object or indicators impossible to define otherwise. </p>
+
+### So what is moving object detection in video?
+
+---
+
+<p align='justify'> Moving objects detection in video streams is a commonly used technique in many computer vision algorithms. The detection becomes more complex when the camera is moving. The environment observed by this type of camera appeared moving and it is more difficult to distinguish the objects which are in movement from the others that composed the static part of the scene. </p>
+
+
+<p align='justify'> The study of the different motion detection methods proposed in the literature has allowed us to notice that most of the proposed solutions consist of considering video sequences as successions of images, generally classified into two categories: the current image , and the past. The most common approach is to build a more or less compact model that is supposed to represent all the past, and to confront the current image with this model in order to decide in any point, if it represents the background or a moving object. </p>
