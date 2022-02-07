@@ -199,4 +199,8 @@
 
 <p align='justify'> At the end, you have to obtain something like this. The first image with straight road and the second one with curved road. </p>
 
+<p align="center">
+  <img src="https://github.com/Niangmohamed/Computer-Vision-for-Autonomous-Cars/blob/bc433777edd5ba8b6bbfb6e07a5c09ec99495540/images/lanes-2.png" />
+</p>
 
+<p align='center'> Result of Lane detection from images </p>
