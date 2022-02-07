@@ -162,7 +162,7 @@
 
 <p align='justify'> Except the notable exception of Tesla, most manufacturers said their autonomous cars would be dependent to assess their environment for a remote sensing laser sensor system ; lidar. This <a href="https://www.youtube.com/watch?v=ZiHCpeFzPgM">video</a> provides explanations on why Tesla abandoned lidar and radar to focus solely on vision by Andrej Karpathy, the Senior Director of AI at Tesla. But the market for these systems is still disordered, between competitive pressure, lack of standard and questions about innovation. </p>
 
-## Lane detection
+## Lane detection (Project Folder)
 
 ### How lanes detection help autonomous vehicles even work?
 
@@ -172,4 +172,24 @@
 
 <p align="center">
   <img src="https://github.com/Niangmohamed/Computer-Vision-for-Autonomous-Cars/blob/a1ca725757a789f3c4a412bb9459515396cd18f6/images/lanes-1.png" />
+</p>
+
+<p align='justify'> Let’s do some coding. The different steps of the algorithm that you will follow are: 
+
+* Convert image to grayscale;
+
+* Darkened the grayscale image;
+  
+* Convert image to HLS colour space;
+  
+* Apply Gaussian Blur;
+  
+* Apply canny Edge Detector;
+  
+* Define Region of Interest;
+  
+* Collect Hough lines;
+  
+* Repeat all the previous steps with videos.
+  
 </p>
