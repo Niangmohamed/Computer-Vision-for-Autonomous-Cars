@@ -80,3 +80,12 @@
 
 ---
 
+<p align='justify'>The table below presents a summary of some algorithms and libraries used in previous works.</p>
+
+| Object Detection | Algorithms | Segmentation, RCNN, YOLO, RNN |
+| :--- | :--- | :--- |
+|  | Libraries | OpenCV, TensorFlow, |
+| Object Tracking | Algorithms | KLT, CNN, RNN |
+|  | Libraries | OpenCV, TensorFlow, |
+| Lane Detection | Algorithms | RCNN, DNN, |
+|  | Libraries | OpenCV, TensorFlow, Keras |
