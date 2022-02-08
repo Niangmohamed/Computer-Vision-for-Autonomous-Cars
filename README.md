@@ -206,7 +206,7 @@
 <p align='center'> Result of Lane detection from images </p>
 
 <p align="center">
-  <img src="https://github.com/Niangmohamed/Computer-Vision-for-Autonomous-Cars/blob/8ea24c754bdd8586891993ae68e4c8eca1e63c63/images/lanes-3.gif" />
+  <img src="https://github.com/Niangmohamed/Computer-Vision-for-Autonomous-Cars/blob/4bf0f2a0ef4c7560af81352087a09d283bbb8767/images/lanes-3.gif" />
 </p>
 
 <p align='center'> Result of Lane detection from videos </p>
