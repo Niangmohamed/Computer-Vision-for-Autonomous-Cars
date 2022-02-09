@@ -141,7 +141,7 @@
 <p align='justify'> Now that you know what is object detection, tracking and background segmentation let’s do some coding. Open the specific notebook for this part in the project folder. At the end, you have to obtain something like this. </p>
 
 <p align="center">
-  <img src="https://github.com/Niangmohamed/Computer-Vision-for-Autonomous-Cars/blob/283d831b9823787693ec7ee9b7b4904214e4a9d5/images/segmentation.png" />
+  <img src="https://github.com/Niangmohamed/Computer-Vision-for-Autonomous-Cars/blob/2516526d232bcf63e140a9a3d856aee43e1615aa/images/background-segmentation.png" />
 </p>
 
 ## Detection of moving objects using LIDAR
