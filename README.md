@@ -160,7 +160,7 @@
 
 <p align='justify'> More than 1 billion dollars has been invested in approximately 50 lidar startups over the last three years including a record of 420 million dollars in 2018, according to an analysis of available data by Reuters. Manufacturers and companies looking to develop autonomous vehicles have a problem: it is not enough for cars to know how to think, but a reliable and affordable technology must allow them to see. </p>
 
-<p align='justify'> Except the notable exception of Tesla, most manufacturers said their autonomous cars would be dependent to assess their environment for a remote sensing laser sensor system ; lidar. This <a href="https://www.youtube.com/watch?v=ZiHCpeFzPgM">video</a> provides explanations on why Tesla abandoned lidar and radar to focus solely on vision by Andrej Karpathy, the Senior Director of AI at Tesla. But the market for these systems is still disordered, between competitive pressure, lack of standard and questions about innovation. </p>
+<p align='justify'> Except the notable exception of Tesla, most manufacturers said their autonomous cars would be dependent to assess their environment for a remote sensing laser sensor system ; lidar. This <a href="https://www.youtube.com/watch?v=ZiHCpeFzPgM">video</a> provides explanations on why Tesla abandoned lidar (it only used for labeling the data) and radar to focus solely on vision by Andrej Karpathy, the Senior Director of AI at Tesla. But the market for these systems is still disordered, between competitive pressure, lack of standard and questions about innovation. </p>
 
 ## Lane detection (Project Folder)
 
